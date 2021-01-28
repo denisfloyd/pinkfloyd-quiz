@@ -1,28 +1,29 @@
 {
   "bg": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/82c453bc-66da-40f9-bca8-3c36e3e5149a/db15sml-5d095952-1f22-4c5a-90a5-abcd7a786ff0.png/v1/fill/w_1024,h_576,q_80,strp/pink_floyd_wallpaper_by_desertwiggle_db15sml-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD01NzYiLCJwYXRoIjoiXC9mXC84MmM0NTNiYy02NmRhLTQwZjktYmNhOC0zYzM2ZTNlNTE0OWFcL2RiMTVzbWwtNWQwOTU5NTItMWYyMi00YzVhLTkwYTUtYWJjZDdhNzg2ZmYwLnBuZyIsIndpZHRoIjoiPD0xMDI0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.Re1XpfEmCAwKFGkc3viptNMIiylfmgD-k6_ytM5qJCY",
-  "title": "Quiz CSS da Alura",
-  "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+  "title": "Quiz Pink Floyd @denismend",
+  "description": "Teste os seus conhecimentos sobre a banda Inglesa Pink Floyd",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-      "title": "Como fazer um seletor por id via CSS?",
+      "image": "https://media.giphy.com/media/5twCMNij5xDag/giphy.gif",
+      "title": "Qual a música do Pink Floyd que ganhou um prêmio Grammy",
       "description": "Essa é pra aquecer",
       "answer": 2,
       "alternatives": [
-        ".elemento",
-        "*elemento",
-        "#elemento",
-        "%elemento"
+        "Money",
+        "See Emily Play",
+        "Marooned",
+        "Louder Than Words"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-      "title": "Como fazer um background gradiente com css?",
-      "description": "Faz tempo em haha",
-      "answer": 0,
+      "image": "https://media.giphy.com/media/l3q2sSqmc6GzT5de0/giphy.gif",
+      "title": "Qual o nome da primeira turnê da banda sem o baixista Roger Waters ?",
+      "description": "Bem fácil heim !!",
+      "answer": 2,
       "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
+        "Delicate Sound of Thunder",
+        "The Wall",
+        "Pulse"
       ]
     }
   ],
